@@ -1,5 +1,4 @@
-# AppHacks2021
-### Sonar Based Navigation  
+# AppHacks2021 -  Sonar Based Navigation   
   
 Parts (all Adafruit parts have tutorials):  
 * 9V battery connector - Ordered via Amazon  
