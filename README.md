@@ -16,4 +16,3 @@ Parts (all Adafruit parts have tutorials):
   
 Victor Thompson, Chris Walters, Danila Buyuk, Sam Prewitt
 version: 1.0
-2021
