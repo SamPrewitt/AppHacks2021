@@ -8,3 +8,12 @@ Parts (all Adafruit parts have tutorials):
 * Buzzer  
 * Bluetooth Device 
   
+
+
+
+
+
+
+authors: Victor Thompson, Chris Walters, Danila Buyuk, Sam Prewitt
+version: 1.0
+2021
