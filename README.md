@@ -1,3 +1,5 @@
+# * Warning: this page is currently not up to date!
+
 # AppHacks2021 -  Sonar Based Navigation   
   
 Parts (all Adafruit parts have tutorials):  
