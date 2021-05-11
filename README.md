@@ -1,4 +1,4 @@
-# * Warning: this page is currently not up to date!
+# * Warning: this page is not up to date!
 
 # AppHacks2021 -  Sonar Based Navigation   
   
